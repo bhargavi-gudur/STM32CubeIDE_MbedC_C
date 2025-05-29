@@ -39,14 +39,6 @@ This project contains bare-metal C code for toggling an LED on an STM32F107RB mi
 - Simple blocking delay added for visible blink rate
 
 ---
-
-## 🧠 Function Definitions
-
-```c
-void gpio_init(void);     // Initializes GPIOA pin 5 as output
-void led_toggle(void);    // Toggles GPIOA pin 5
-void delay(void);         // Busy-wait loop for delay
-
 ## 🗂️ Project Structure
  
 GPIO_PIN/
@@ -64,3 +56,14 @@ GPIO_PIN/
 ├── .cproject / .project # Eclipse-based project files
 ├── .gitignore # Git ignored files
 └── README.md # Project documentation
+
+---
+## 🧠 Function Definitions
+
+```c
+void gpio_init(void);     // Initializes GPIOA pin 5 as output
+void led_toggle(void);    // Toggles GPIOA pin 5
+void delay(void);         // Busy-wait loop for delay
+
+---
+
