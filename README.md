@@ -39,8 +39,9 @@ This project contains bare-metal C code for toggling an LED on an STM32F107RB mi
 - Simple blocking delay added for visible blink rate
 
 ---
+
 ## 🗂️ Project Structure
- 
+```
 GPIO_PIN/
 ├── Inc/
 │ └── stm32f107_gpio.h # GPIO function declarations
@@ -56,8 +57,9 @@ GPIO_PIN/
 ├── .cproject / .project # Eclipse-based project files
 ├── .gitignore # Git ignored files
 └── README.md # Project documentation
-
+```
 ---
+
 ## 🧠 Function Definitions
 
 ```c
