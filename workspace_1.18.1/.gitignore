@@ -1,0 +1,24 @@
+# STM32CubeIDE project files
+.metadata/
+.settings/
+*.launch
+*.ioc
+
+# Build directories
+Debug/
+Release/
+
+# Object files and binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.cproject
+*.project
+
+# Auto-generated files
+*.dep
+*.d
+*.lst
+*.bak
