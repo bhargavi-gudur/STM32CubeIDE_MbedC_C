@@ -1,0 +1,48 @@
+# Ignore build and binary files
+bin/
+obj/
+*.exe
+*.dll
+*.cproject
+*.pdb
+*.project
+
+# Ignore user-specific settings
+*.user
+*.suo
+
+# Ignore dependency packages
+node_modules/
+vendor/
+venv/
+
+# Ignore IDE and editor configurations
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+
+# Ignore CubeSide-specific files (if applicable)
+cubesidefile
+
+# Ignore Debug and Release directories
+debug/
+release/
+.qodo/
+settings/
+
+# Ignore metadata files
+*.metadata
+
+# Ignore debug.launch 
+*.debug.launch
+*C_Program Debug.launch
+
+#ignore specific IDE files
+*.code-workspace
+*.org.eclipse.cdt.core.prefs
+*languageServerSettings.json
+*org.eclipse.cdt.resources.prefs
