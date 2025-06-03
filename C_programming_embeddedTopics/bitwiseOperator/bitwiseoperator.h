@@ -1,8 +1,12 @@
-/*
- * bitwiseoperator.h
- *
- *  Created on: May 30, 2025
- *      Author: gandl
+/**
+ * @file bitwiseoperator.h
+ * @author Gandla bhargavi
+ * @brief Header file for bitwise operations.
+ * @version 0.1
+ * @date 2025-06-03
+ * 
+ * @copyright Copyright (c) 2025
+ * 
  */
 
 #ifndef BITWISEOPERATOR_H_

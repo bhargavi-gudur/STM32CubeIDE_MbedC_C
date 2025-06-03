@@ -1,10 +1,11 @@
-/*
- * bitwiseClearBit.c
+/**
+ * @file bitwiseClearBit.case
+ * @author Gandla bhargavi
+ * @brief  This program demonstrates how to clear a specific bit in an integer using bitwise operations.
+ * @version 0.1
+ * @date 2025-06-03
  *
- *  Created on: May 30, 2025
- *      Author: gandl
  */
-
 
 #include<stdio.h>
 #include"bitwiseoperator.h"

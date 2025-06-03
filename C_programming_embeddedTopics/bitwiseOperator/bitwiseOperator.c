@@ -1,8 +1,10 @@
-/*
- * @file :bitwiseOperator.c
- *
- * @Created on: May 30, 2025
- * @ Author: gandla bhargavi
+/**
+ * @file bitwiseOperator.c
+ * @author Gandla bhargavi
+ * @brief  This file contains the main function to demonstrate bitwise operations such as toggling, setting, and clearing bits.
+ * @version 0.1
+ * @date 2025-06-03
+ * 
  */
 
 #include<stdio.h>

@@ -1,10 +1,13 @@
-/*
- *  bitwiseSetBit.c
+/**
+ * @file bitwiseToggleBit.c
+ * @author Gandla bhargavi
+ * @brief  This program demonstrates how to toggle a specific bit in an integer using bitwise operations.
+ * @version 0.1
+ * @date 2025-06-03
  *
- *  Created on: May 30, 2025
- *  Author: gandla Bhargavi
+ * @copyright Copyright (c) 2025
+ *
  */
-
 
 #include<stdio.h>
 #include"bitwiseoperator.h"
