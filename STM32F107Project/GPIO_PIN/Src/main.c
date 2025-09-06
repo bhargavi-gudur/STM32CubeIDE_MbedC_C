@@ -1,7 +1,8 @@
 /**
  * @file main.c
  * @author Gandla bhargavi
- * @brief Main file for GPIO LED blinking
+ * @brief Main file for GPIO LED blinking using direct register access.
+ * This program initializes a GPIO pin connected to an LED and toggles its state in an infinite
  * @version 0.1
  * @date 2025-06-03
  *
